@@ -13,8 +13,7 @@ Cole Sheridan
 In this assignment, students demonstrated understanding of nodes on an HTML page by using javascript commands such as getElementById, getElementsByTag, AppendChild, etc. to manipulate a template photo gallery web page to preform specific actions when certain buttons were pressed.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://cns17b.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
 1. Using a tree model for an HTML page, each node on a webpage belongs to a parent on the page (with the exception of the head and body tags).  Nodes that belong to a parent are called child nodes.  Child nodes can have their own child nodes, and each node that is on the same level in the tree is a sibling node.
